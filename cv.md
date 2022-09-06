@@ -14,3 +14,9 @@ I have done some simple tasks in Java, SQL.
 
 ### Education:
 2010-2014 BSATU 2014-2015 BSEU
+
+### English:
+English A2+ (Pre-Intermediate)
+
+### Links:
+codewars: https://www.codewars.com/users/kirillLit
