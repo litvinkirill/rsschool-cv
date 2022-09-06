@@ -20,3 +20,7 @@ English A2+ (Pre-Intermediate)
 
 ### Links:
 codewars: https://www.codewars.com/users/kirillLit
+
+https://rolling-scopes-school.github.io/litvinkirill-JSFE2021Q3/christmas-task1/#
+
+https://rolling-scopes-school.github.io/litvinkirill-JSFE2021Q3/art-quiz/
